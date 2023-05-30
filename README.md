@@ -3,9 +3,11 @@ A VGG16 tumor classification model built on the [CBIS DDSM](https://wiki.canceri
 
 See the main.ipynb for validation results and metrics.
 Confusion Matrix:
+
 | 175 | 33 |
 |-----|----|
 | 31  | 70 |
+
 valid Loss: 0.2169 Acc: 0.7929
 
 To run the code,
